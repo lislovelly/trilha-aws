@@ -22,7 +22,7 @@ Este projeto foi uma experiência incrível em contar histórias visuais, utiliz
 ![Clique aqui para baixar](https://github.com/lislovelly/trilha-IAGenerativa/blob/main/video/Khaleese.mp4)
 
 Clique na imagem e assista o vídeo no YouTube
-[![Assista o vídeo aqui](https://img.youtube.com/vi/tZJpbAumpco/maxresdefault.jpg)](https://www.youtube.com/shorts/tZJpbAumpco)
+[![Assista o vídeo aqui](https://img.youtube.com/vi/MZqnneIaYB4/maxresdefault.jpg)](https://www.youtube.com/shorts/MZqnneIaYB4)
 
 
 
