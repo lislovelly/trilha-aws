@@ -18,7 +18,10 @@ O vídeo resultante é uma síntese impressionante do potencial das IAs Generati
 💭 Reflexão
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
 
-![video] (https://github.com/lislovelly/trilha-aws/blob/main/video/Khaleese.mp3)
+[![IA Generativa D-ID](http://img.youtube.com/vi/SEU_CODIGO_DO_VIDEO/0.jpg)](http://www.youtube.com/watch?v=SEU_CODIGO_DO_VIDEO)
+
+Veja meu vídeo do YouTube Shorts [aqui](https://www.youtube.com/shorts/tZJpbAumpco)
+
 
 
 
